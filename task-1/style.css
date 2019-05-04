@@ -1,0 +1,110 @@
+
+.container{
+margin-top: 40px;
+margin-left: 80px;
+
+}
+button{
+margin-left: 30px;
+}
+.cart{
+background-color: #d50006;
+padding: 15px 30px;
+color: white;
+font-size: 16px;
+border: none;
+outline: none;
+}
+.cart:hover{
+    background-color: #fe1b41;
+    cursor: pointer;
+}
+.start{
+    background-color: #ffdc06;
+padding: 12px 20px;
+color: #3f45ff;
+font-size: 20px;
+border:2px solid #3f45ff;
+font-weight: 400;
+outline: none;
+
+}
+.start:hover{
+    background-color: #3f45ff;
+    cursor: pointer;
+    color: #ffdc06;
+
+}
+.login{
+       background: linear-gradient(to left,#12d5d8 0% , #96db85 100%);
+padding: 10px 40px;
+color: white;
+font-size: 20px;
+border:none;
+border-radius: 40px;
+outline: none;
+
+}
+.signup{
+
+   background-color: white;
+padding: 10px 20px;
+color: #7900ed;
+font-size: 20px;
+border:3px solid #7900ed;
+font-weight: 400;
+border-radius: 10px;
+outline: none;
+}
+.signup:hover{
+    background-color: #7900ed;
+    cursor: pointer;
+    color: white;
+
+}
+.subscribe{
+     background: linear-gradient(to bottom,#ff9f00 0% , #ffc700 100%);
+     
+padding: 10px 20px;
+color: white;
+font-size: 20px;
+border:2px solid #ff9b00;
+font-weight: 400;
+border-radius: 5px;
+outline: none;
+
+}
+.subscribe:hover{
+    background: #ff8600;
+    cursor: pointer;
+    color: white;
+    
+
+}
+.twitter{
+    border-radius:100%;
+    padding :15px;
+    background-color: white;
+    border:2px solid #149df7;
+    color: #149df7;
+   outline: none;
+}
+i{
+    font-size: 30px;
+    color: #149df7;
+    
+}
+.twitter:hover{
+    background-color: #149df7;
+    cursor: pointer;
+    color: white;
+    
+}
+
+i:hover
+{
+    
+    color: #fff     ;
+    
+}
+

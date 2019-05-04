@@ -1,0 +1,42 @@
+body{
+    background: linear-gradient(to left , #03d5e2 0%, #9ddc81 100%);
+    font-family: 'Montserrat', sans-serif;
+    font-size: 12px;
+}
+.form{
+    background-color: #acebcf;
+    
+    border-radius: 20px;
+    height: 300px;
+    width: 30%;
+    margin-left: 35%;
+    margin-top: 10%;
+    padding: 40px; 
+    padding-left:10px; 
+
+
+}
+input{
+    height:20px;
+    width:80%;
+    padding: 5px;
+margin:5px;
+margin-left: 30px;
+border-radius: 10px;
+
+}
+label{
+    margin-top: 10px;
+    margin-left: 30px;
+    font-size: 12px;
+}
+.login{
+       background-color: #00aabe;
+padding: 10px 40px;
+color: white;
+font-size: 20px;
+border:none;
+border-radius: 10px;
+outline: none;
+margin: 20px 0px 0px 30px;
+}

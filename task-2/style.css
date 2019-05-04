@@ -1,0 +1,87 @@
+
+body{
+    background-color: #e2e4e5;
+}
+.container{
+    background-color: #e2e4e5;
+    
+    height: 600px;
+    font-family: 'Satisfy', cursive;
+    font-size: 20px;
+    font-weight: bold;
+    
+}
+header {
+    margin: 30px 0;     
+}
+.country{
+    text-shadow: 1px 1px #ff0000;
+    text-align:center; 
+    font-size: 30px;
+    background-color: white;
+    font-family: 'Montserrat', sans-serif;
+    font-weight: 600;
+    padding: 20px 0px;
+}
+.pakistan{
+    float: left;
+    margin-left: 100px;
+    text-align: center;  
+}
+.pakistan:hover{
+    background-color: white;
+    color: red;
+}
+.portugal{
+    float: left;
+    margin-left: 100px;
+    text-align: center;
+}
+.portugal:hover{
+    background-color: white;
+    color: red;
+
+}
+.srilanka{
+    float: left;
+    margin-left: 100px;
+    text-align: center;
+}
+.srilanka:hover{
+    background-color: white;
+    color: red;
+}
+.turkey{
+    float: left;
+    margin-left: 100px;
+    text-align: center;
+}
+.turkey:hover{
+    background-color: white;
+    color: red;
+}
+.germany{
+    float: left;
+    margin-left: 100px;
+    text-align: center;
+}
+.germany:hover{
+    background-color: white;
+    color: red;
+}
+.spain{
+    float: left;
+    margin-left: 100px;
+    text-align: center;
+}
+.spain:hover{
+    background-color: white;
+    color: red;
+}
+img{
+    padding: 10px 10px 0px 10px;
+}
+p{
+    margin-top: 0px;
+}
+
